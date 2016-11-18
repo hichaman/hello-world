@@ -1,2 +1,3 @@
 # hello-world
-hom ework
+ 
+ HI my nam is Hicham i lean developpment
